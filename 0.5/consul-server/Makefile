@@ -1,3 +1,3 @@
 
 build:
-	docker build -t zendesk/consul-server:0.5.2 .
+	docker build -t dr.gopaktor.com/consul-server:0.5.2 .

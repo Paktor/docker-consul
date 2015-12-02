@@ -1,4 +1,4 @@
-FROM zendesk/consul-agent:0.5.2
+FROM dr.gopaktor.com/consul-agent:0.5.2
 ENV CONSUL_SERVER 1
 ENV CONSUL_DNS_ALLOW_STALE 0
 ENV CONSUL_DNS_MAX_STALE ""

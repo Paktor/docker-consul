@@ -1,4 +1,4 @@
-FROM zendesk/consul:0.5.2
+FROM dr.gopaktor.com/consul:0.5.2
 
 ENV CONSUL_CLIENT_ADDR 0.0.0.0
 ENV CONSUL_DATA_DIR /data
